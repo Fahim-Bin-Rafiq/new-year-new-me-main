@@ -4,12 +4,13 @@
 .cover_picture{
     background: url(/images/banner/banner3.png);
     background-repeat: no-repeat;
-    background-position: bottom right,left;
     color: white;
-    
+     height:100vh;
+     width: 100%;
+    /* background-size: cover; */
     
 }
-.Primary_button{
+.primary_button{
     width: 130px;
     height: 50px;
     color:white;
@@ -22,4 +23,18 @@
 }
 .banner{
     text-align: right;
+   
+    
+}
+.about_me{
+    margin-right: 200px;
+   padding-top: 250px;
+}
+.description{
+width: 494px;
+height: 78px;
+padding-left: 680px;
+}
+.mid-section{
+    
 }
