@@ -5,8 +5,7 @@
     background: url(/images/banner/banner3.png);
     background-repeat: no-repeat;
     color: white;
-     height:100vh;
-     width: 100%;
+    height: 900px;
     /* background-size: cover; */
     
 }
@@ -37,4 +36,11 @@ padding-left: 680px;
 }
 .mid-section{
     
+    padding: 0 200px;
+}
+.mid-section-banner{
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    justify-content: center;
 }
