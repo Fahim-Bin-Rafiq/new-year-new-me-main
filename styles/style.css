@@ -2,7 +2,8 @@
     margin: 0;
 }
 .cover_picture{
-    background: url(/images/banner/banner3.png);
+    /* background: url(/images/banner/banner3.png); */
+    background: url(/images/gradient3.png);
     background-repeat: no-repeat;
     color: white;
     height: 900px;
